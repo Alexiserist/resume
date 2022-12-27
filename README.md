@@ -1,3 +1,7 @@
+This is my first resume website create by using React.js Tailwind
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
